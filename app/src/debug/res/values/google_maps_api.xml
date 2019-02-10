@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B3:01:08:97:CF:A3:82:BB:E1:46:CF:74:DD:57:DC:63:C4:73:C4:91%3Bbeangate.datta.mapapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    B3:01:08:97:CF:A3:82:BB:E1:46:CF:74:DD:57:DC:63:C4:73:C4:91
+
+    SHA-1 certificate fingerprint:
+    B3:01:08:97:CF:A3:82:BB:E1:46:CF:74:DD:57:DC:63:C4:73:C4:91
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAOsu0y1yfgfHOXC1oFing2_XuUWGxcs6c</string>
+</resources>
